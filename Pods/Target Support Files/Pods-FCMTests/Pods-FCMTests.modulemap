@@ -1,0 +1,6 @@
+framework module Pods_FCMTests {
+  umbrella header "Pods-FCMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
