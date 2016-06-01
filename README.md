@@ -1,3 +1,8 @@
+
+curl --header "Authorization: key=AIzaSyBfM6DjLfcLGAynpjysSjzjl13FlME1lLM" \
+--header "Content-Type: application/json" https://fcm.googleapis.com/fcm/send \
+-d "{\"registration_ids\":[\"eEwND7V-RzU:APA91bGtWdvAsfKCnsD8aqpmeu-POUER6TgK6FUNEX24-Ext-RNvhaT6fNWz_s-ACSh1_Glt33AVDgFp1EUrDX3-7bU60FYQNECFMZEq_xOBrMMFkB4Y_cGS-c2YTn__bC1QhYjMjXKO\"],\"notification\":{\"title\":\"good notification\",\"message\":\"really good\"}}"
+
 Firebase Messaging Quickstart
 =============================
 
